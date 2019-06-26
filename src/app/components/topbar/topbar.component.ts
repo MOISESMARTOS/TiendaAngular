@@ -24,15 +24,7 @@ import {CartService} from "../../services/cart.service";
                     <li class="header-nav-item">
                         <a routerLink="/">HOME</a>
                     </li>
-                    <li class="header-nav-item">
-                        <a routerLink="/">SHOP<span class="fa fa-caret-down"></span></a>
-                    </li>
-                    <li class="header-nav-item">
-                        <a routerLink="/">JOURNAL</a>
-                    </li>
-                    <li class="header-nav-item">
-                        <a routerLink="/">MORE<span class="fa fa-caret-down"></span></a>
-                    </li>
+                    
                 </ul>
             </div>
             <div class="header-cart-wrapper">
