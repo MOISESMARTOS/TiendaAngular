@@ -1,0 +1,150 @@
+[
+  {
+    "title": "Aguacate",
+    "brand": "AS corp",
+    "price": 5,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
+    "image": "aguacate.jpg"
+  },
+  {
+    "title": "Ajo",
+    "brand": "Dw Imports",
+    "price": 3,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget arcu. Curabitur ac pharetra nisl, sit amet mattis dolor.",
+    "image": "ajo.jpg"
+  },
+  {
+    "title": "Almendras",
+    "brand": "As corp",
+    "price": 10,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget arcu. Curabitur ac pharetra nisl, sit amet mattis dolor.",
+    "image": "almendras.jpg"
+  },
+  {
+    "title": "Arandanos",
+    "brand": "As corp",
+    "price": 8,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
+    "image": "arandanos.jpg"
+  },
+  {
+    "title": "Brocoli",
+    "brand": "X Imports",
+    "price": 2,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
+    "image": "brocoli.png"
+  },
+  {
+    "title": "Calabaza",
+    "brand": "X imports",
+    "price": 4,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
+    "image": "calabaza.jpg"
+  },
+  {
+    "title": "Canela",
+    "brand": "As corp",
+    "price": 6,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
+    "image": "canela.jpg"
+  },
+  {
+    "title": "Cebolla",
+    "brand": "X imports",
+    "price": 4,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
+    "image": "cebolla.jpg"
+  },
+  {
+    "title": "Fresa",
+    "brand": "X imports",
+    "price": 4,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
+    "image": "fresa.jpg"
+  },
+  {
+    "title": "Kiwi",
+    "brand": "X imports",
+    "price": 4,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
+    "image": "kiwi.jpg"
+  },
+  {
+    "title": "Limon",
+    "brand": "X imports",
+    "price": 4,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
+    "image": "limon.jpg"
+  },
+  {
+    "title": "Lichee",
+    "brand": "X imports",
+    "price": 4,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
+    "image": "lychee.jpg"
+  },
+  {
+    "title": "Maiz",
+    "brand": "X imports",
+    "price": 4,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
+    "image": "maiz.jpg"
+  },
+  {
+    "title": "Manzana",
+    "brand": "X imports",
+    "price": 4,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
+    "image": "manzana.jpg"
+  },
+  {
+    "title": "Naranja",
+    "brand": "X imports",
+    "price": 4,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
+    "image": "naranja.jpg"
+  },
+  {
+    "title": "Papa",
+    "brand": "X imports",
+    "price": 4,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
+    "image": "papa.jpg"
+  },
+  {
+    "title": "Pasta",
+    "brand": "X imports",
+    "price": 4,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
+    "image": "pasta.jpg"
+  },
+  {
+    "title": "Pimienta",
+    "brand": "X imports",
+    "price": 4,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
+    "image": "pimienta.jpg"
+  },
+  {
+    "title": "Repollo",
+    "brand": "X imports",
+    "price": 4,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
+    "image": "repollo.jpg"
+  },
+  {
+    "title": "Tomate",
+    "brand": "X imports",
+    "price": 4,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
+    "image": "tomate.jpg"
+  },
+  {
+    "title": "Zanahoria",
+    "brand": "X imports",
+    "price": 4,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
+    "image": "zanahoria.jpg"
+  }
+
+]
